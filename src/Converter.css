@@ -142,7 +142,7 @@ button:hover {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width:480px) {
     .Converter {
         max-width: 78%;
         margin-top: 28%;
